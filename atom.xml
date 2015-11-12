@@ -3,9 +3,9 @@
   <title><![CDATA[NaN。]]></title>
   <subtitle><![CDATA[如果我们没有才华，那么努力就足以使我们幸福了。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://xieyingzi.xyz/"/>
   <updated>2015-11-11T16:11:33.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://xieyingzi.xyz/</id>
   
   <author>
     <name><![CDATA[taevas]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[我滴女神]]></title>
-    <link href="http://yoursite.com/2015/11/12/%E6%88%91%E6%BB%B4%E5%A5%B3%E7%A5%9E/"/>
-    <id>http://yoursite.com/2015/11/12/我滴女神/</id>
+    <link href="http://xieyingzi.xyz/2015/11/12/%E6%88%91%E6%BB%B4%E5%A5%B3%E7%A5%9E/"/>
+    <id>http://xieyingzi.xyz/2015/11/12/我滴女神/</id>
     <published>2015-11-11T16:05:09.000Z</published>
     <updated>2015-11-11T16:11:33.000Z</updated>
     <content type="html"><![CDATA[<p>终于配好博客了…<br>0 0 我不管我不管, 必须po一张女神皂片…<br><img src="/images/女神1.jpeg" alt="我滴女神"></p>
@@ -27,7 +27,7 @@
 ]]>
     </summary>
     
-      <category term="xyz" scheme="http://yoursite.com/tags/xyz/"/>
+      <category term="xyz" scheme="http://xieyingzi.xyz/tags/xyz/"/>
     
   </entry>
   
